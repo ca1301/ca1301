@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Unity3D multiplayer prototype games using both Photon networking as well as Mirror.
+- 🌱 I’m currently learning about game engine design and construction, specifically 3D rendering with PBR materials
+- 👯 I’m looking to collaborate on an existing game mod
+- 🤔 I’m looking for help with game engine design utilizing c++ 
 <!--
 **ca1301/ca1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
